@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Mulligan107
 - 👀 I’m interested in working on my own private projects.
-- 🌱 I’m currently learning Java, Python, C, C#, Matlab and the whole website suite (HTML, JS and CSS)
-- 💞️ I’m looking to collaborate on NOTHING, my studies keep me enterained enough :D
+- 🌱 I’m currently learning Java, Python, C++, C#, Matlab and the whole websuite (HTML, JS and CSS)
+- 💞️ I’m looking to collaborate on NOTHING, my studies keep me entertained enough
 - 📫 How to reach me Discord: Helpful Spirit#1407
 
 <!---
